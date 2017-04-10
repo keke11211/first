@@ -1,0 +1,13 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.wrap{
+	width: 800px;
+	margin: 0px auto;
+	background: lightpink;
+	text-align: center;
+}
+.btn:hover{
+	cursor: pointer;
+}
